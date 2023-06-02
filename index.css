@@ -1,0 +1,103 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("https://images.unsplash.com/photo-1520052203542-d3095f1b6cf0?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8aW5kaWFuJTIwZmFybWVyfGVufDB8fDB8fHww&auto=format&fit=crop&w=500&q=60");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: top;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333;
+    position: sticky;
+    top: 0;
+  }
+
+/*ul {
+    margin: 0px;
+    padding: 0;
+    background-color: rgb(234, 241, 237);
+    text-decoration: none;
+    height: 45x;
+    display: flex;
+    position: relative;
+    top: 20px;
+    border: 2px solid black;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    position: -webkit-sticky; /* Safari */
+   
+
+
+.navbar li {
+    text-decoration: none;
+    color: rgb(200, 219, 197);
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+    position: relative;
+    left: 1000px;
+    
+}
+ 
+      
+ul li a{
+    color: rgb(241, 239, 239);
+}
+li a:hover {
+    background-color: #8a73af;
+  }
+  .active {
+    background-color: #8a73af;
+  }
+
+h1 {
+    color: rgb(31, 233, 51);
+}
+
+.food {
+    /*background-color: rgb(63, 241, 78);*/
+    margin: 0;
+    padding: 0;
+    position: absolute;
+    top: 212px;
+    left: 33px;
+    border-radius: 20%;
+    /*height: 30%;*/
+    justify-items: center;
+    font-size: 50px;
+
+}
+
+.foodimg {
+    background-image: url("https://media.istockphoto.com/id/163067728/photo/happy-woman-working.jpg?s=612x612&w=0&k=20&c=RlBDxZXWs4T0fq8963dJP_1h8FUpH0vFT-JVZn9cjRk=");
+    position: relative;
+    top: -28px;
+    height: 500px;
+    background-repeat: no-repeat;
+    left: 800px;
+
+}
+
+.food p {
+    background-color: aqua;
+    color: brown;
+}
+
+.fpa {
+    /*background-color: rgb(204, 255, 0);*/
+    color:white;
+    width: 40%;
+    position: relative;
+    top: 291px;
+    left: 35px;
+    font-size: 32px;
+    font-style: bold;
+   /* border: 2px solid black;*/
+
+
+}
